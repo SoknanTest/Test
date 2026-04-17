@@ -1,0 +1,19 @@
+{
+  "name": "cli-guess-game-soknan",
+  "version": "1.0.0",
+  "description": "just for testing and learning",
+  "repository": {
+    "type": "git",
+    "url": "git@github-soknan:SoknanTest/Test.git"
+  },
+  "license": "UNLICENSED",
+  "author": "soknan",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
